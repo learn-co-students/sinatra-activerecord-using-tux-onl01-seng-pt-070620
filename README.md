@@ -7,6 +7,7 @@ In this lesson, we'll cover Tux, a Ruby gem, that you can use to make sure your 
 ## Objectives
 
 * Describe the benefits of Tux
+change
 * Set up Tux locally
 * Create, edit, delete, and update data
 
